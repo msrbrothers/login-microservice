@@ -1,0 +1,44 @@
+# Node.js dependencies
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+
+# Coverage directory used by tools like istanbul
+coverage/
+coverage.json
+lcov-report/
+
+# Optional npm cache directory
+.npm/
+
+# dotenv environment variable files
+.env
+.env.test
+.env.local
+.env.*.local
+
+# Various editors/IDEs
+.vscode/
+.idea/
+
+# TypeScript output
+dist/
+build/
+
+# Debug files
+*.log
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# TypeScript typings
+typings/
+typings.json
+
